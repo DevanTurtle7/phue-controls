@@ -2,7 +2,7 @@
 
 ## Updates
 - Connection check
-- Color start fix
+- Rainbow start color fixed
 
 ## Coming Soon
 - Breathing mode
